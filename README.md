@@ -35,6 +35,6 @@ Until 1st december, working on homework 2.
 
 Organization within the team: 
 
-Mathis and Nils: work on the machine learning
-Alexis and Philippine: website and design 
-Hugues: point of improvements and overall details.
+Mathis and Nils: work on the machine learning  
+Alexis and Philippine: website and design  
+Hugues: point of improvements and overall details.  
