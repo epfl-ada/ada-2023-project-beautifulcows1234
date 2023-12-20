@@ -11,7 +11,7 @@ Wikispeedia is a game where players are asked to navigate from one wikipedia pag
 - What is the ethnicity distribution of people within Wikispeedia ?
 - Are there any differences in the distribution of links within article depending of the ethnicity ?
 - Are the ethnics groups more link to white people pages than inversely ?
-- Is there a difference in success depending on the ethnic group in target for the game?
+- Does the ethnicity of the person targeted have an influence on the outcome of the game (win or lose)?
 
 
 ## Additional Dataset 
