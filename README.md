@@ -1,6 +1,6 @@
 # Subject : Ethnics inequalities within wikispeedia:
 
-wikispeedia-mj.vercel.app
+Lien WebSite: wikispeedia-mj.vercel.app
 
 # Abstract: 
 The representation of white human is largely superior whether in television, radio, newspapers and on internet. Other ethnic groups often have difficulties to be represented in our occidental society. Some of them may have detailed pages, while others may have limited information or even be under-represented. This could be due to historical, cultural, geographical or political factors. Therefore, by analyzing the differents pathways and links between different ethnicals personnality, we want to investigate if this inequal representation is a myth or the reality in the specific case of Wikispeedia. The findings of this research have may have broader implications for understanding online discrimination, knowledge dissemination, and inclusivity in virtual environments.
