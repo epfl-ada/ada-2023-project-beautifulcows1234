@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './../components/header';
-import Text from './../components/text';
+import Text from './../components/Text';
 import Quote from './../components/quote';
 import Display from './../components/display';
 import Data2 from "../public/Data/Data2.js"
