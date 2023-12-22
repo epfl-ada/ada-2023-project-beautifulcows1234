@@ -41,7 +41,11 @@ Unfortunately, we did not have time push this analisis further and incorporate i
 # Contribution of the the team members:
 
 Nils: Links analysis and readme redaction
+
 Mathis: coding and implementing machine learning 
+
 Alexis: Plot design and data story idea and redaction
+
 Philippine: coding naive and confounfer analysis
+
 Hugues: Website creation and design
