@@ -4,6 +4,7 @@ const nextConfig = {
     output: 'standalone',
     basePath: '/gh-pages',
     assetPrefix: '/gh-pages/',
+    
   };
   
   module.exports = nextConfig;
